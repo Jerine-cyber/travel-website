@@ -53,7 +53,7 @@ trip-advisor-clone/
 1. **Clone the repository**  
 ```
 
-git clone 
+git clone : [https://github.com/Jerine-cyber/travel-website.git]
 
 ```
 
@@ -74,8 +74,8 @@ git clone
 ## 📬 Connect With Me
 
 Feel free to reach out for suggestions or collaborations:  
-📧 jerine@example.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)
+📧 jerinjoshwa123@gmail.com 
+🔗 https://www.linkedin.com/in/hekdhendj/
 
 ---
 
